@@ -1,0 +1,315 @@
+Dish Name,Description,cusine(veg/nonveg),spice level 1-5, Category
+
+Clear Soup, veg, 1, Soups
+
+Tomato Soup, Tomato soup made with fresh vegetables and herbs, veg, 1, Soups
+
+Rasam, Traditional South Indian soup made with tamarind, tomato, and spices, veg, 1, Soups
+
+Sweet Corn Soup, veg, 1, Soups
+
+Mutton Bone Soup, A flavorful soup made with mutton bones and spices, non-veg, 2, Soups
+
+Nattukkoli Rasam, A spicy and tangy soup made with country chicken and traditional spices, non-veg, 2, Soups
+
+Hot & Sour Soup, veg OR non-veg, 2, Soups
+
+Crab Soup, A rich and creamy soup made with fresh crab meat, non-veg, 2, Soups
+
+Kuli Paniaram, Traditional South Indian snack made from fermented rice and lentil batter, veg, 1, Appetizers
+
+Medhu Vadai, Deep-fried lentil donuts served with chutney and sambar, veg, 2, Appetizers
+
+Thayir Vadai, Lentil donuts soaked in yogurt and topped with spices, veg, 1, Appetizers
+
+Sambar Vadai, Lentil donuts dunked in flavorful lentil stew, veg, 1, Appetizers
+
+Pakoda, Crispy fritters made with gram flour and mixed vegetables, veg, 1, Appetizers
+
+65 Style, Spicy and flavorful fried chicken or veg option tossed in a special sauce, veg OR non-veg, 2, Appetizers
+
+Tikka Style, Tender pieces of chicken or veg option  marinated in a blend of spices and grilled, veg OR non-veg, 2, Appetizers
+
+Tandoori Chicken, Chicken marinated in yogurt and spices, cooked in a clay oven, non-veg, 2, Appetizers
+
+Chicken Lollipop, Chicken wings marinated, battered, and deep-fried, non-veg, 2, Appetizers
+
+Chicken Garlic Kebab, Tender chicken pieces marinated in garlic and spices, grilled to perfection, non-veg, 2, Appetizers
+
+Nethili Fish Fry, Deep-fried anchovies marinated in a blend of spices, non-veg, 2, Appetizers
+
+Boiled Egg, Soft-boiled eggs seasoned with spices, non-veg, 1, Appetizers
+
+Egg Omelette, Fluffy omelette made with eggs and spices, non-veg, 1, Appetizers
+
+Egg Kalakki, Scrambled eggs cooked with onions, tomatoes, and spices, non-veg, 2, Appetizers
+
+Egg Pepper Fry, Eggs cooked with peppers, onions, and spices, non-veg, 2, Appetizers
+
+Egg Podimas, Scrambled eggs tossed with onions, tomatoes, and spices, non-veg, 2, Appetizers
+
+Chettinad Sukka Varuval, Spicy and flavorful Chettinad-style dry chicken dish, non-veg, 3, Appetizers
+
+Baby Corn Pepper Onion (dry), Stir-fried baby corn, bell peppers, and onions seasoned with spices, veg, 2, Appetizers
+
+Masala Pappad, Crispy pappad topped with chopped onions, tomatoes, and spices, veg, 2, Appetizers
+
+South Indian Pappad, Crispy South Indian-style pappad served with chutney, veg, 1, Appetizers
+
+Idli (2)/Vadai (1)/Mini Dosa (1), A combination of steamed rice cakes, lentil donuts, and mini dosa, veg, 1, Dosa / Steam Zone
+
+Mysore Masala Dosa, A thin, crispy dosa filled with spicy potato filling, veg, 3, Dosa / Steam Zone
+
+Plain Dosa, A traditional South Indian crepe made from fermented rice and lentil batter, veg, 1, Dosa / Steam Zone
+
+Masala Dosa, A crispy dosa filled with a spicy potato filling, veg, 2, Dosa / Steam Zone
+
+Egg Dosa, A dosa filled with scrambled eggs and spices, non-veg, 2, Dosa / Steam Zone
+
+Onion Dosa, A dosa filled with sautéed onions and spices, veg, 2, Dosa / Steam Zone
+
+Paper Dosa, A thin and crispy dosa served with chutney and sambar, veg, 1, Dosa / Steam Zone
+
+Paper Podi Dosa, A thin and crispy dosa sprinkled with spicy powder, veg, 2, Dosa / Steam Zone
+
+Ghee Dosa, A dosa cooked with clarified butter, veg, 1, Dosa / Steam Zone
+
+Ghee Podi Dosa, A dosa cooked with clarified butter and sprinkled with spicy powder, veg, 2, Dosa / Steam Zone
+
+Ghee Masala Dosa, A dosa cooked with clarified butter and filled with spicy potato filling, veg, 2, Dosa / Steam Zone
+
+Rava Dosa, A crispy dosa made from semolina and rice flour, veg, 2, Dosa / Steam Zone
+
+Onion Rava Dosa, A crispy dosa made from semolina, rice flour, and onions, veg, 2, Dosa / Steam Zone
+
+Onion Rava Masala Dosa, A crispy dosa made from semolina, rice flour, filled with spicy potato filling, veg, 2, Dosa / Steam Zone
+
+Uthappam, A thick pancake made from fermented rice and lentil batter, veg, 2, Dosa / Steam Zone
+
+Kal Dosa Combo, A soft and spongy dosa served with chutney and sambar, veg, 2, Dosa / Steam Zone
+
+Stuffed Dosa, A dosa filled with a savory filling of your choice, veg, 2, Dosa / Steam Zone
+
+Idli (3Pc) With Chutney Sambar, Steamed rice cakes served with coconut chutney and sambar, veg, 1, Dosa / Steam Zone
+
+Sambar Idli, Steamed rice cakes dunked in flavorful lentil stew, veg, 1, Dosa / Steam Zone
+
+Ghee Podi Idli, Steamed rice cakes served with clarified butter and spicy powder, veg, 2, Dosa / Steam Zone
+
+Idli Combos, veg, 1, Dosa / Steam Zone
+
+Idiyappam Combos, veg, 1, Dosa / Steam Zone
+
+Coconut Milk Aappam, Aappam served with creamy coconut milk, veg, 1, Dosa / Steam Zone
+
+Aappam Combos, veg, 1, Dosa / Steam Zone
+
+Idli (2)/Vadai (1)/Mini Dosa (1)/Pongal, A combination of South Indian breakfast items served with pongal, veg, 1, Dosa / Steam Zone
+
+Rava Masala Dosa, A crispy dosa made from semolina and rice flour, filled with spicy potato filling, veg, 2, Dosa / Steam Zone
+
+Strawberry Dosa, A dosa filled with fresh strawberries and served with chutney, veg, 1, Dosa / Steam Zone
+
+Coconut Milk Idiyappam, Idiyappam served with creamy coconut milk, veg, 1, Dosa / Steam Zone
+
+Podi Masala Dosa, A dosa sprinkled with spicy powder and filled with spicy potato filling, veg, 2, Dosa / Steam Zone
+
+Cheese Dosa, A dosa filled with melted cheese, veg, 1, Dosa / Steam Zone
+
+Chocolate Dosa, A sweet dosa filled with chocolate spread, veg, 1, Dosa / Steam Zone
+
+Pongal, A South Indian dish made from rice and lentils, served with chutney and sambar, veg, 1, Dosa / Steam Zone
+
+Idli (2)/Vadai (1) Combo, A combo of steamed rice cakes and lentil donuts served with chutney and sambar, veg, 1, Dosa / Steam Zone
+
+Regular Fried Rice, Steamed rice stir-fried with vegetables and sauces, veg OR non-veg, 1, Indo-Chinese
+
+Szechuan Fried Rice, Spicy fried rice cooked with Szechuan sauce and vegetables, veg OR non-veg, 2, Indo-Chinese
+
+Regular Noodles, Stir-fried noodles with vegetables and sauces, veg OR non-veg, 2, Indo-Chinese
+
+Szechuan Noodles, Spicy stir-fried noodles with Szechuan sauce and vegetables, veg OR non-veg, 1, Indo-Chinese
+
+Chilli Dry, Spicy and tangy stir-fried dish with vegetables or meat, veg OR non-veg, 2, Indo-Chinese
+
+Chilli Gravy, Spicy and tangy gravy dish with vegetables or meat, veg OR non-veg, 2, Indo-Chinese
+
+Manchurian Dry, Fried vegetable or meat balls tossed in a spicy and tangy sauce, veg OR non-veg, 3, Indo-Chinese
+
+Manchurian Gravy, Vegetable or meat balls in a spicy and tangy gravy sauce, veg OR non-veg, 3, Indo-Chinese
+
+Chilli Parotta, Layered flatbread tossed with spicy sauce and vegetables or meat, veg OR non-veg, 2, Indo-Chinese
+
+Goat Biriyani, Flavorful rice dish cooked with goat meat and spices, non-veg, 4, Biryani
+
+Chicken Biriyani, Fragrant rice dish cooked with chicken and spices, non-veg, 4, Biryani
+
+Nattukkoli Biriyani, Traditional South Indian biryani made with country chicken and spices, non-veg, 4, Biryani
+
+Chicken 65 Biriyani, Biryani rice cooked with spicy and flavorful Chicken 65, non-veg, 4, Biryani
+
+Chicken Tikka Biriyani, Flavorful biryani rice cooked with marinated chicken tikka pieces, non-veg, 3, Biryani
+
+Biriyani, Traditional aromatic rice dish cooked with spices and meat or vegetables, non-veg, 3, Biryani
+
+Bhai Veedu Kalyana Biriyani Combo (Christmas Special), Special biryani combo served during Christmas, non-veg, 3, Biryani
+
+Anjappar Vegetarian Thali, A platter with a variety of vegetarian dishes, served with rice and bread, veg, 2, Thali
+
+Anjappar Goat Thali, A platter with a variety of goat dishes, served with rice and bread, non-veg, 3, Thali
+
+Anjappar Chicken Thali, A platter with a variety of chicken dishes, served with rice and bread, non-veg, 2, Thali
+
+Anjappar Fish Thali, A platter with a variety of fish dishes, served with rice and bread, non-veg, 2, Thali
+
+Anjappar Egg Thali, A platter with a variety of egg dishes, served with rice and bread, non-veg, 2, Thali
+
+Chettinad Goat Masala, Spicy and flavorful goat curry cooked in Chettinad style, non-veg, 3, Entrée - Goat
+
+Goat Liver, Goat liver cooked with spices and herbs, non-veg, 2, Entrée - Goat
+
+Goat Egg Fry, Goat eggs marinated in spices and fried until golden brown, non-veg, 3, Entrée - Goat
+
+Goat Pepper Curry, Goat meat cooked with black pepper and spices, non-veg, 3, Entrée - Goat
+
+Chettinad Chicken (gravy), Spicy and tangy chicken curry cooked in Chettinad style gravy, non-veg, 3, Entrée - Chicken
+
+Pepper Chicken Masala, Chicken cooked with black pepper and spices, non-veg, 5, Entrée - Chicken
+
+Nattukkoli Masala, Country chicken cooked with spices and herbs, non-veg, 2, Entrée - Chicken
+
+Chicken Tikka Masala, Tender chicken tikka pieces cooked in a creamy tomato-based sauce, non-veg, 3, Entrée - Chicken
+
+Butter Chicken Masala, Tender chicken cooked in a creamy and mildly spiced tomato-based sauce, non-veg, 3, Entrée - Chicken
+
+Kadaai Chicken Masala, Chicken cooked with onions, tomatoes, and spices in a kadai, non-veg, 3, Entrée - Chicken
+
+Egg Masala, Boiled eggs cooked in a spicy and flavorful gravy, non-veg, 3, Entrée - Chicken
+
+Malabar Chicken, Chicken cooked in Malabar style coconut-based gravy, non-veg, 2, Entrée - Chicken
+
+Andhra Chicken, Spicy chicken curry made with Andhra-style spices, non-veg, 5, Entrée - Chicken
+
+Spl. Anjappar Chicken, Special chicken dish cooked in Anjappar's signature style, non-veg, 3, Entrée - Chicken
+
+Chettinad Fish Curry, Spicy fish curry made with Chettinad spices, non-veg, 3, Entrée - Seafood
+
+Vavaal Varuval, Fried pomfret fish marinated in spices and deep-fried, non-veg, 2, Entrée - Seafood
+
+Tilapia Varuval, Spicy and tangy tilapia fish fry, non-veg, 3, Entrée - Seafood
+
+Prawn Masala, Spicy prawn curry cooked with onions, tomatoes, and spices, non-veg, 3, Entrée - Seafood
+
+Prawn Egg Curry, Prawns and boiled eggs cooked in a spicy and flavorful gravy, non-veg, 2, Entrée - Seafood
+
+Crab Roast, Spicy and tangy crab curry, non-veg, 4, Entrée - Seafood
+
+Crab Masala, Crab cooked with spices and herbs in a flavorful masala, non-veg, 2, Entrée - Seafood
+
+Vanjaram Fry, Spicy and crispy fried king fish, non-veg, 2, Entrée - Seafood
+
+Chettinad Vegetable Kuruma, Mixed vegetables cooked in a flavorful coconut-based gravy, veg, 3, Entrée - Veg Curry
+
+Poondu Kolambu, Garlic curry cooked with tamarind and spices, veg, 2, Veg Curry
+
+Ennai Katthirikkai Kolambu, Stuffed baby eggplants cooked in a tangy tamarind gravy, veg, 2, Veg Curry
+
+Peas Masala, Green peas cooked in a creamy and mildly spiced gravy, veg, 3, Veg Curry
+
+Bhindi Masala, Okra cooked with onions, tomatoes, and spices, veg, 2, Entrée - Vegetarian
+
+Kadaai Paneer, Paneer cooked with bell peppers, onions, and spices in a kadai, veg, 4, Entrée - Paneer
+
+Kadaai Vegetables, Assorted vegetables cooked with bell peppers, onions, and spices in a kadai, veg, 4, Veg Curry
+
+Channa Masala, Chickpeas cooked in a spicy and flavorful gravy, veg, 3, Veg Curry
+
+Saag Paneer, Spinach cooked with paneer in a creamy and mildly spiced gravy, veg, 3, Entrée - Paneer
+
+Paneer Butter Masala, Paneer cooked in a creamy and mildly spiced tomato-based sauce, veg, 2, Entrée - Paneer
+
+Paneer Tikka Masala, Tender paneer tikka pieces cooked in a creamy tomato-based sauce, veg, 2, Entrée - Paneer
+
+Dhal Butter Fry, Lentils cooked and tempered with spices and butter, veg, 1, Veg Curry
+
+Raita, Refreshing yogurt mixed with cucumbers, onions, and tomatoes, veg, 1, Sides
+
+Yogurt, Fresh and creamy yogurt, veg, 1, Sides
+
+Aappam (1Pc), Traditional South Indian pancake made with fermented rice batter, veg, 1, Sides
+
+Idiyappam (2 Pc), String hoppers made from rice flour, veg, 1, Sides
+
+Parotta (1Pc), Layered flatbread made from flour, veg, 1, Sides
+
+Chappathi (2Pc), Whole wheat flatbread, veg, 1, Sides
+
+Rice, Steamed white rice, veg, 1, Sides
+
+Basmati Rice, Aromatic and flavorful long-grain rice, veg, 1, Sides
+
+Coconut Milk, Refreshing and creamy coconut milk, veg, 1, Sides
+
+Potato Masala, Spicy mashed potatoes, veg, 2, Sides
+
+Red Chutney 12oz, Spicy and tangy red chutney, veg, 2, Sides
+
+Coconut Chutney 12oz, Creamy coconut chutney, veg, 1, Sides
+
+Sambar 16oz, Flavorful lentil stew, veg, 1, Sides
+
+Naan, Leavened, oven-baked flatbread, veg, 1, Breads
+
+Roti, Whole wheat unleavened flatbread, veg, 1, Breads
+
+Chappathi Combo (2Pc), Whole wheat flatbread served with sides, veg OR non-veg, 1, Breads
+
+Parotta Combo, Layered flatbread served with sides, veg OR non-veg, 2, Breads
+
+Ceylon Parotta, Layered flatbread with egg, served with sides, non-veg, 2, Breads
+
+Kothu Parotta, Shredded parotta stir-fried with vegetables and meat, veg OR non-veg, 2, Breads
+
+Ice Cream, Assorted flavors of creamy ice cream, 1, Dessert
+
+Falooda (With Fruits), Refreshing milk-based drink with vermicelli, fruits, and ice cream, 1, Dessert
+
+Nannaari Sarbath, A refreshing drink made from the extract of the Indian sarsaparilla root, 1, Dessert
+
+Ilaneer Payasam, A creamy and delicious dessert made with tender coconut, 1, Dessert
+
+Rava Kesari, A sweet and aromatic dessert made with semolina, sugar, and ghee, 1, Dessert
+
+Gulab Jamoon, Deep-fried milk dumplings soaked in sugar syrup, 1, Dessert
+
+Carrot Halwa, A rich and flavorful Indian dessert made with grated carrots, milk, and sugar, 1, Dessert
+
+Rasamalai, Soft and spongy cottage cheese patties soaked in sweetened milk, 1, Dessert
+
+Sweet Paan, A traditional Indian mouth freshener made with betel leaves, areca nut, and various spices, 1, Dessert
+
+Bread Halwa (Christmas Special), A special halwa made from bread, milk, and sugar, served during Christmas, 1, Dessert
+
+Neermoru, A traditional South Indian spiced buttermilk, 2, Beverages (Non-Alcoholic)
+
+Rose Milk, A refreshing drink made from milk and rose syrup, 1, Beverages (Non-Alcoholic)
+
+Lemon Juice, Freshly squeezed lemon juice, 1, Beverages (Non-Alcoholic)
+
+Lemon Soda, Carbonated lemon-flavored soda, 1, Beverages (Non-Alcoholic)
+
+Bottled Water, Pure drinking water, 1, Beverages (Non-Alcoholic)
+
+Soda, Carbonated soft drink, 1, Beverages (Non-Alcoholic)
+
+Coke, Carbonated cola-flavored soft drink, 1, Beverages (Non-Alcoholic)
+
+Diet Coke, Diet cola-flavored soft drink, 1, Beverages (Non-Alcoholic)
+
+Sprite, Carbonated lemon-lime flavored soft drink, 1, Beverages (Non-Alcoholic)
+
+Madras Filter Coffee, Strong and aromatic South Indian coffee, 1, Beverages (Non-Alcoholic)
+
+Indian Tea, Traditional Indian chai served with milk and spices, 2, Beverages (Non-Alcoholic)
+
+Lassi, Traditional Indian yogurt-based drink, 2, Beverages (Non-Alcoholic)
